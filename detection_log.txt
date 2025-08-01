@@ -1,0 +1,377 @@
+2025-07-31 12:28:36.159538: Advanced Keylogger Detection Tool Started
+2025-07-31 12:28:37.720680: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:28:40.285639: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:28:40.552213: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:28:40.552775: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:28:40.554029: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:28:40.555378: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:28:40.555929: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:28:40.556456: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:28:40.557045: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:28:40.557632: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:28:40.558135: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:28:40.558445: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:28:40.559044: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:28:40.559668: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:28:40.560177: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:28:40.561467: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:28:40.562011: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:28:40.788049: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:28:41.339647: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:28:41.340181: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:28:41.361426: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:28:47.071596: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:28:47.707626: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:28:47.956688: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:28:47.957237: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:28:47.957862: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:28:47.958474: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:28:47.958986: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:28:47.959417: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:28:47.959807: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:28:47.960208: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:28:47.960598: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:28:47.960894: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:28:47.961327: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:28:47.961752: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:28:47.962151: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:28:47.962683: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:28:47.963056: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:28:48.160157: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:28:48.646214: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:28:48.646703: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:28:48.664784: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:28:54.353709: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:28:55.001714: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:28:55.252210: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:28:55.252634: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:28:55.253205: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:28:55.253758: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:28:55.254249: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:28:55.254633: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:28:55.254969: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:28:55.255370: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:28:55.255733: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:28:55.256001: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:28:55.256330: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:28:55.256692: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:28:55.257057: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:28:55.257585: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:28:55.258047: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:28:55.473313: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:28:55.960654: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:28:55.961142: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:28:55.979643: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:01.666932: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:02.307455: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:02.554968: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:02.555880: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:02.556428: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:02.556989: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:02.557423: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:02.557817: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:02.558213: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:02.558608: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:02.559098: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:02.559484: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:02.559921: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:02.560428: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:02.560895: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:02.561455: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:02.561909: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:02.760696: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:03.250851: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:29:03.251361: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:29:03.269309: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:08.987863: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:09.630605: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:09.877014: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:09.877474: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:09.878102: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:09.878676: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:09.879127: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:09.879526: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:09.879913: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:09.880313: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:09.880679: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:09.880987: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:09.881387: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:09.881813: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:09.882265: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:09.882815: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:09.883261: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:10.082281: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:10.569078: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:29:10.569620: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:29:10.586995: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:16.278548: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:16.937208: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:17.187660: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:17.188147: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:17.188645: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:17.189273: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:17.189976: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:17.190473: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:17.190928: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:17.191364: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:17.191751: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:17.192130: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:17.192559: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:17.192969: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:17.193366: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:17.193874: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:17.194253: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:17.393634: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:17.883287: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:29:17.883759: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:29:17.901525: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:23.576806: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:24.221963: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:24.468032: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:24.468516: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:24.469188: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:24.469787: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:24.470253: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:24.470674: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:24.471076: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:24.471532: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:24.471918: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:24.472204: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:24.472553: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:24.472891: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:24.473230: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:24.473734: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:24.474260: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:24.667317: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:25.156673: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:29:25.157223: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:29:25.174889: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:30.885223: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:31.531033: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:31.775550: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:31.776016: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:31.776503: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:31.777012: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:31.777411: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:31.777823: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:31.778246: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:31.778700: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:31.779210: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:31.779570: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:31.779977: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:31.780410: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:31.780799: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:31.781448: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:31.781961: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:31.982272: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:32.469056: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python Locator.log
+2025-07-31 12:29:32.469575: Recent file modification detected: C:\Users\azizk\AppData\Roaming\Code\logs\20250731T122148\window1\exthost\ms-python.python\Python.log
+2025-07-31 12:29:32.488380: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:38.203685: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:38.848628: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:39.094314: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:39.094881: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:39.095478: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:39.096039: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:39.096546: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:39.097030: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:39.097452: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:39.097913: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:39.098420: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:39.098788: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:39.099290: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:39.099701: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:39.100099: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:39.100690: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:39.101199: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:39.309127: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:39.811593: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:45.476454: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:46.111244: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:46.351257: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:46.351845: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:46.352534: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:46.353075: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:46.353468: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:46.353939: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:46.354298: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:46.354675: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:46.355098: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:46.355415: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:46.355758: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:46.356110: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:46.356595: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:46.357153: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:46.357576: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:46.385887: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:29:46.410564: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:29:46.553552: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:47.061200: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:52.712442: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:29:53.356117: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:53.602868: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:29:53.603390: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:29:53.604154: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:29:53.604803: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:29:53.605312: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:29:53.605794: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:29:53.606273: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:29:53.606762: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:29:53.607138: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:29:53.607487: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:29:53.607868: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:29:53.608300: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:29:53.608722: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:29:53.609398: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:29:53.610077: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:29:53.639000: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:29:53.665386: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:29:53.812703: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:29:54.316052: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:29:59.973257: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:00.678380: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:00.933093: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:00.933630: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:00.934425: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:00.935151: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:00.935646: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:00.936092: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:00.936515: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:00.936968: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:00.937387: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:00.937758: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:00.938158: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:00.938613: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:00.939250: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:00.939933: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:00.940399: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:00.969841: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:00.996503: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:01.145766: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:01.665127: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:07.319724: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:07.968125: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:08.224193: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:08.224794: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:08.225474: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:08.226213: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:08.226677: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:08.227108: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:08.227524: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:08.228032: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:08.228493: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:08.228893: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:08.229413: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:08.229817: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:08.230212: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:08.230735: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:08.231137: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:08.258965: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:08.283812: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:08.431642: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:08.933634: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:14.582253: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:15.224866: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:15.474893: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:15.475459: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:15.476078: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:15.476650: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:15.477045: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:15.477447: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:15.477859: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:15.478272: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:15.478674: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:15.478993: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:15.479437: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:15.479835: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:15.480214: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:15.480768: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:15.481312: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:15.509215: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:15.533576: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:15.681050: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:16.183571: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:21.827950: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:22.484743: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:22.744632: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:22.745192: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:22.745811: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:22.746354: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:22.746814: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:22.747304: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:22.747773: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:22.748212: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:22.748620: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:22.749014: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:22.749467: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:22.749960: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:22.750343: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:22.750935: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:22.751392: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:22.780556: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:22.805161: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:22.952025: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:23.469842: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:29.125603: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:29.771169: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:30.026386: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:30.026981: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:30.027678: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:30.028415: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:30.029059: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:30.029597: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:30.030045: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:30.030491: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:30.030944: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:30.031312: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:30.031724: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:30.032120: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:30.032520: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:30.033323: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:30.033888: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:30.061961: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:30.086700: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:30.233678: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:30.741485: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:36.398595: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:37.049043: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:37.308254: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:37.308829: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:37.309613: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:37.310358: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:37.310896: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:37.311480: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:37.311980: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:37.312438: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:37.312838: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:37.313175: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:37.313641: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:37.314074: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:37.314574: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:37.315136: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:37.315570: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:37.342950: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extension State\000003.log
+2025-07-31 12:30:37.366792: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\chrome-extension_dkkdbpgldnmkhcliffjpajcfdjkcaddf_0.indexeddb.leveldb\005696.log
+2025-07-31 12:30:37.510995: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:38.011050: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:43.659219: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:44.291261: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:44.535805: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\AndroidSerial.log
+2025-07-31 12:30:44.536293: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\EmulatorStderr.log
+2025-07-31 12:30:44.536925: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\Service.log
+2025-07-31 12:30:44.537493: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_0_stderr.log
+2025-07-31 12:30:44.537924: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_1_stderr.log
+2025-07-31 12:30:44.538345: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_2_stderr.log
+2025-07-31 12:30:44.538717: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\disk_3_stderr.log
+2025-07-31 12:30:44.539173: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_stderr.log
+2025-07-31 12:30:44.539628: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\gpu_syslog.log
+2025-07-31 12:30:44.539950: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\metrics_stderr.log
+2025-07-31 12:30:44.540323: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\net_stderr.log
+2025-07-31 12:30:44.540679: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\slirp_stderr.log
+2025-07-31 12:30:44.541034: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\spu_stderr.log
+2025-07-31 12:30:44.541562: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_stderr.log
+2025-07-31 12:30:44.542044: Recent file modification detected: C:\Users\azizk\AppData\Local\Google\Play Games\Logs\emulator_logs\vmm_main_syslog.log
+2025-07-31 12:30:44.737105: Recent file modification detected: C:\Users\azizk\AppData\Local\Microsoft\Windows\WebCache\V01.log
+2025-07-31 12:30:45.239305: Recent file modification detected: C:\Users\azizk\OneDrive\Desktop\anit-key\detection_log.txt
+2025-07-31 12:30:50.905755: Suspicious file found: C:\Users\azizk\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dkkdbpgldnmkhcliffjpajcfdjkcaddf\4.1.9_0\log.txt
+2025-07-31 12:30:51.371052: Detection tool stopped

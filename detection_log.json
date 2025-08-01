@@ -1,0 +1,6 @@
+{"timestamp": "2025-08-01T15:01:17.132986", "level": "INFO", "message": "Advanced Keylogger Detection Tool Started"}
+{"timestamp": "2025-08-01T15:01:18.583049", "level": "INFO", "message": "Suspicious file found: C:\\Users\\azizk\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Extensions\\dkkdbpgldnmkhcliffjpajcfdjkcaddf\\4.1.9_0\\log.txt"}
+{"timestamp": "2025-08-01T15:01:46.839773", "level": "INFO", "message": "Detection tool stopped"}
+{"timestamp": "2025-08-01T15:04:48.461019", "level": "INFO", "message": "Advanced Keylogger Detection Tool Started"}
+{"timestamp": "2025-08-01T15:04:49.824494", "level": "INFO", "message": "Suspicious file found: C:\\Users\\azizk\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Extensions\\dkkdbpgldnmkhcliffjpajcfdjkcaddf\\4.1.9_0\\log.txt"}
+{"timestamp": "2025-08-01T15:07:11.801767", "level": "INFO", "message": "Detection tool stopped"}
